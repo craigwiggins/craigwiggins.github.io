@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            meronym
+tagline:          'human hunger birthed the Civ’lize, but human hunger killed it too.'
+description:      'meditations on learning technology, afrofuturism and other baby steps.'
+url:              http://craigwiggins.github.io
+baseurl:          /
+
+author:
+  name:           'Craig Wiggins'
+  url:            https://twitter.com/oxala75
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/craigwiggins/craigwiggins.github.io
