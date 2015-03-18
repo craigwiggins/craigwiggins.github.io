@@ -3,7 +3,7 @@ layout: page
 title: about
 ---
 
-##Who's Craig?
+#who's Craig?
 
 Craig has been helping people create and manage digital learning experiences for the last 10 years. 
 
@@ -15,11 +15,11 @@ Chiefly, he is an [elearning jockey](http://elearningjockey.blogspot.com/), [Exp
 
 Come find me on [Twitter](http://www.twitter.com/oxala75).
 
-##Who/what is *Meronym*?
+#who/what is *Meronym*?
 
 Meronym is 
 
-1. A term used to denote a thing that is a part of something else.
+1. A term used to denote a thing that is a part of something else. ([Wiktionary](http://en.wiktionary.org/wiki/meronym))
 2. A character from [David Mitchell](http://en.wikipedia.org/wiki/David_Mitchell_(author))'s third novel, [*Cloud Atlas*](http://en.wikipedia.org/wiki/Cloud_Atlas_%28novel%29). 
 
 In the second case, [Meronym](http://cloudatlas.wikia.com/wiki/Meronym) is
