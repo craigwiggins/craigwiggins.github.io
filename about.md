@@ -3,7 +3,7 @@ layout: page
 title: about
 ---
 
-###who's Craig?
+######who's Craig?
 
 Craig has been helping people create and manage digital learning experiences for the last 10 years. 
 
@@ -15,7 +15,7 @@ Chiefly, he is an [elearning jockey](http://elearningjockey.blogspot.com/), [Exp
 
 You can usually find him on [Twitter](http://www.twitter.com/oxala75).
 
-###who/what is *Meronym*?
+######who/what is *Meronym*?
 
 Meronym is 
 
