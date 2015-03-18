@@ -13,7 +13,7 @@ Additionally, he is a moderator at [/r/elearning](http://www.reddit.com/r/elearn
 
 Chiefly, he is an [elearning jockey](http://elearningjockey.blogspot.com/), [Experience API](http://xapi.adlnet.gov) evangelist and a recovering brazilophile.
 
-Come find me on [Twitter](http://www.twitter.com/oxala75).
+You can usually find him on [Twitter](http://www.twitter.com/oxala75).
 
 ###who/what is *Meronym*?
 
