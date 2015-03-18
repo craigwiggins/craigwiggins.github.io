@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Bridge
+title: the bridge
 ---
 
 The key is interoperability.
