@@ -13,6 +13,9 @@ Additionally, he is a moderator at [/r/elearning](http://www.reddit.com/r/elearn
 
 Chiefly, he is an [elearning jockey](http://elearningjockey.blogspot.com/), [Experience API](http://xapi.adlnet.gov) evangelist and a recovering brazilophile.
 
+A long time ago, Craig used to play capoeira.
+[Craig and Arvind playing capoeira at UptoAllofUs 2014](http://1leskc3vt3972zgl6yx4oyqe.wpengine.netdna-cdn.com/wp-content/uploads/2014/03/IMG_4328.png)
+
 You can usually find him on [Twitter](http://www.twitter.com/oxala75).
 
 ######who/what is *Meronym*?
@@ -25,4 +28,4 @@ Meronym is
 In the second case, [Meronym](http://cloudatlas.wikia.com/wiki/Meronym) is
 > *is a woman of the [Prescients](http://cloudatlas.wikia.com/wiki/Prescients) who comes to live with the Valleymen for a year in order to learn about their society and customs. She is featured in [Sloosha's Crossin' an' Ev'rythin' After](http://cloudatlas.wikia.com/wiki/Sloosha%27s_Crossin%27_an%27_Ev%27rythin%27_After) - which consists solely of chapter 6.*
 
-The Prescients are, as far as anyone knows, the most technologically-advanced humans left on Earth. As part of their adaptation to a more dangerous, demanding environment, every Prescient is genomed to be dark skinned.
+The Prescients are, as far as anyone knows, the most technologically-advanced humans left on Earth. As part of a purposeful adaptation to a more dangerous, demanding environment, every Prescient is genomed to be dark skinned.
