@@ -5,6 +5,8 @@ title: about
 
 ######who is Craig?
 
+![Craig](https://lh6.googleusercontent.com/-6GUjj_0Nu4Q/UyMhu-boJXI/AAAAAAAASuM/FxYqPtnbIPQ/w663-h373-no/IMAG1477.jpg "Craig has a hat on")
+
 Craig has been helping people create and manage digital learning experiences for the last 10 years. 
 
 He is the community manager at the [Advanced Distributed Learning Initiative (ADL)](http://www.adlnet.gov/). He is, by training, an instructional designer who has worked primarily to design and develop elearning in the commercial, military, and U.S. federal government contexts.
@@ -13,7 +15,7 @@ Additionally, he is a moderator at [/r/elearning](http://www.reddit.com/r/elearn
 
 Chiefly, he is an [elearning jockey](http://elearningjockey.blogspot.com/), [Experience API](http://xapi.adlnet.gov) evangelist and a recovering brazilophile.
 
-A long time ago, Craig used to play capoeira.
+A long time ago, Craig used to play [capoeira](http://en.wikipedia.org/wiki/Capoeira).
 ![Craig and Arvind playing capoeira at UptoAllofUs 2014](http://1leskc3vt3972zgl6yx4oyqe.wpengine.netdna-cdn.com/wp-content/uploads/2014/03/IMG_4328.png "Craig and Arvind playing capoeira at UptoAllofUs 2014")
 
 You can usually find him on [Twitter](http://www.twitter.com/oxala75).
