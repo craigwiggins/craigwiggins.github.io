@@ -13,10 +13,8 @@ To kick off 2015, my writing whip partner and I decided to take on a new challen
 Below are the goals that I have assigned myself for 2015 - we'll see how many I get through before the end of the year.
 
 ####Web Development
-* Learn Markdown
- * **DONE** (but I'll likely be referring to [this cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet))
- * create a blog site using it
-  * [**DONE**](http://craigwiggins.github.io)
+~~* Create a blog site using Markdown~~
+ * [**DONE**](http://craigwiggins.github.io)
 
 ####Video
 * Set up personal YouTube presence
