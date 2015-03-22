@@ -19,15 +19,3 @@ A long time ago, Craig used to play [capoeira](http://en.wikipedia.org/wiki/Capo
 ![Craig and Arvind playing capoeira at UptoAllofUs 2014](/images/up2allofus2014_capoeira.png "Craig and Arvind playing capoeira at UptoAllofUs 2014")
 
 You can usually find him on [Twitter](http://www.twitter.com/oxala75).
-
-######who is Meronym?
-
-Meronym is 
-
-1. A term used to denote a thing that is a part of something else. ([Wiktionary](http://en.wiktionary.org/wiki/meronym))
-2. A character from [David Mitchell](http://en.wikipedia.org/wiki/David_Mitchell_(author))'s third novel, [*Cloud Atlas*](http://en.wikipedia.org/wiki/Cloud_Atlas_%28novel%29). 
-
-In the second case, [Meronym](http://cloudatlas.wikia.com/wiki/Meronym) is
-> *is a woman of the [Prescients](http://cloudatlas.wikia.com/wiki/Prescients) who comes to live with the Valleymen for a year in order to learn about their society and customs. She is featured in [Sloosha's Crossin' an' Ev'rythin' After](http://cloudatlas.wikia.com/wiki/Sloosha%27s_Crossin%27_an%27_Ev%27rythin%27_After) - which consists solely of chapter 6.*
-
-The Prescients are, as far as anyone knows, the most technologically-advanced humans left on Earth. As part of a purposeful adaptation to a more dangerous, demanding environment, every Prescient is genomed to be dark skinned.
