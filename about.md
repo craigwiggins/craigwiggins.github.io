@@ -1,10 +1,11 @@
 ---
 layout: page
-image: /img/craig-in-a-car.jpg
 title: about
 ---
 
 ######who is Craig?
+
+![Craig in a car](/images/craig-in-a-car.jpg "Craig in a car")
 
 Craig has been helping people create and manage digital learning experiences for the last 10 years. 
 
