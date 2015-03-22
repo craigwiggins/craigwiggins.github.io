@@ -16,7 +16,7 @@ Craig is a moderator at [/r/elearning](http://www.reddit.com/r/elearning), a par
 Chiefly, he is an [elearning jockey](http://elearningjockey.blogspot.com/), [Experience API](http://xapi.adlnet.gov) evangelist and a recovering brazilophile.
 
 A long time ago, Craig used to play [capoeira](http://en.wikipedia.org/wiki/Capoeira).
-![Craig and Arvind playing capoeira at UptoAllofUs 2014](http://1leskc3vt3972zgl6yx4oyqe.wpengine.netdna-cdn.com/wp-content/uploads/2014/03/IMG_4328.png "Craig and Arvind playing capoeira at UptoAllofUs 2014")
+![Craig and Arvind playing capoeira at UptoAllofUs 2014](/images/up2allofus2014_capoeira.png "Craig and Arvind playing capoeira at UptoAllofUs 2014")
 
 You can usually find him on [Twitter](http://www.twitter.com/oxala75).
 
