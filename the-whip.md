@@ -5,23 +5,26 @@ title: the whip
 
 ![all the things meme](/images/learn-all-the-things.png "learn all the things!")
 
-To kick off 2015, my writing whip partner and I decided to take on a new challenge: learning new skills. We would maintain the same weekly meeting schedule and method, but instead of completing (or talking about how to complete) our writing assignments, would assign ourselves a new skill to learn within one or two weeks time. By the time the due date rolls around, we should have completed a task which indicates that a new skills has been learned.
-
 ####This week's goal:
 Computer assisted animation/illustration (due 1 April 2015)
+
+To kick off 2015, my writing whip partner and I decided to take on a new challenge: learning new skills. We would maintain the same weekly meeting schedule and method, but instead of completing (or talking about how to complete) our writing assignments, would assign ourselves a new skill to learn within one or two weeks time. By the time the due date rolls around, we should have completed a task which indicates that a new skills has been learned.
 
 Below are the goals that I have assigned myself for 2015 - we'll see how many I get through before the end of the year.
 
 ####Web Development
-* Learn Markdown - *DONE* (but I'll likely be referring to [this cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet))
-* create a blog site using it - [**DONE**](http://craigwiggins.github.io)
+* Learn Markdown
+ * **DONE** (but I'll likely be referring to [this cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet))
+ * create a blog site using it
+  * [**DONE**](http://craigwiggins.github.io)
 
 ####Video
 * Set up personal YouTube presence
 * Create a series of short (3 mins or less - probably way less) videos on weekly themes
 
 ####Programming language explorations
-* Properly set up a Github presence and test it - [**DONE**](https://github.com/craigwiggins/hello-world)
+* Properly set up a Github presence and test it
+ * [**DONE**](https://github.com/craigwiggins/hello-world)
 * Code Academy
 * Beginner projects in Python
 
