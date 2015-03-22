@@ -14,14 +14,14 @@ Below are the goals that I have assigned myself for 2015 - we'll see how many I 
 
 ####Web Development
 * Learn Markdown - *DONE* (but I'll likely be referring to [this cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet))
-* create a blog site using it - [*DONE*](http://craigwiggins.github.io)
+* create a blog site using it - [**DONE**](http://craigwiggins.github.io)
 
 ####Video
 * Set up personal YouTube presence
 * Create a series of short (3 mins or less - probably way less) videos on weekly themes
 
 ####Programming language explorations
-* Properly set up a Github presence and test it - [*DONE*](https://github.com/craigwiggins/hello-world)
+* Properly set up a Github presence and test it - [**DONE**](https://github.com/craigwiggins/hello-world)
 * Code Academy
 * Beginner projects in Python
 
@@ -30,11 +30,11 @@ Below are the goals that I have assigned myself for 2015 - we'll see how many I 
 * Figure out how to use ARIS
 * Create a very small situated documentary
 * [Experience API](http://xapi.adlnet.gov) explorations
-** Set up an LRS
-** Experiment with an authoring tool that will create xAPI statements
-** Create small interaction that will express said statements
-** Verify that statements were captured in an LRS
-** Install the Learning Locker LRS on a Raspberry Pi
+ * Set up an LRS
+ * Experiment with an authoring tool that will create xAPI statements
+ * Create small interaction that will express said statements
+ * Verify that statements were captured in an LRS
+ * Install the Learning Locker LRS on a Raspberry Pi
 
 ####Other (mostly unformed ideas)
 * Get into [Arduino](http://www.arduino.cc/)
