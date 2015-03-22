@@ -17,7 +17,7 @@ author:
   name:           'Craig Wiggins'
   url:            https://twitter.com/oxala75
 
-paginate:         5
+paginate:         3
 
 # Custom vars
 version:          2.1.0
