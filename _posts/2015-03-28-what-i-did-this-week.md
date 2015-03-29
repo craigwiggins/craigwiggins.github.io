@@ -7,11 +7,11 @@ Rachel Barnum - you know, [*that Rachel*](http://www.ohthatrachel.com/) - had wh
 
 Here's what I've been up to:
 
-* I [twitter stalked](http://craigwiggins.github.io/2015/03/25/xAPI-Camp/) the inaugural Connections Forum [xAPI Camp](http://connectionsforum.com/xapi-camp-march-2015/)
+* [Twitter stalked](http://craigwiggins.github.io/2015/03/25/xAPI-Camp/) the inaugural Connections Forum [xAPI Camp](http://connectionsforum.com/xapi-camp-march-2015/)
 * After having started 2015 by watching [*Cloud Atlas*](http://en.wikipedia.org/wiki/Cloud_Atlas_(film)), I have continued making my way through [David Mitchell](http://en.wikipedia.org/wiki/David_Mitchell_%28author%29)'s novels. Currently on [*Black Swan Green*](http://en.wikipedia.org/wiki/Black_Swan_Green)
 * Started spinning up the engines for the upcoming [CMI-5 Working Group meeting](http://www.adlnet.gov/cmi-5-sandstone-pre-release-working-group-april-15-16/)
 * Continued to work on the [whip list](http://craigwiggins.github.io/the-whip/). This week: working the [Wacom](http://us.wacom.com/en/welcome/bamboo-connect/) and [Pencil2D](https://github.com/pencil2d/pencil)
-* [xAPI Design Cohort - week 8](https://groups.google.com/a/adlnet.gov/forum/#!forum/xapi-design)! 
+* [xAPI Design Cohort - week 8](https://groups.google.com/a/adlnet.gov/forum/#!forum/xapi-design)!
 * Jealously followed [#LSCon tweets](https://twitter.com/LSCon)
 * Sat in on the Medbiquitous xAPI Interest Group meeting. This week's subject: [inaction and xAPI](http://groups.medbiq.org/medbiq/display/XIG/Discussion+on+inaction)
 * Started planning ADL webinar series. (Hey, btw - what do *you* want to know about what ADL is up to?)
@@ -27,4 +27,3 @@ Here's what I've been up to:
 * Reviewed [xAPI Remarks](https://github.com/adlnet/xapi-remarks) (shout out to ADL's [Tyler Mulligan](https://twitter.com/tylerADL))
 
 [![xAPI Remarks and xAPI Canteen](http://img.youtube.com/vi/LmWv-5muuM0/0.jpg)](http://www.youtube.com/watch?v=LmWv-5muuM0)
-

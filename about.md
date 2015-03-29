@@ -7,9 +7,9 @@ title: about
 
 ![Craig in a car](/images/craig-in-a-car.jpg "Craig in a car")
 
-Craig has been helping people create and manage digital learning experiences for the last 10 years. 
+Craig has been helping people create and manage digital learning experiences for the last 10 years.
 
-He is the community manager at the [Advanced Distributed Learning Initiative (ADL)](http://www.adlnet.gov/). He is, by training, an instructional designer who has worked primarily to design and develop elearning in the commercial, military, and U.S. federal government contexts.
+He is the community manager at the [Advanced Distributed Learning Initiative (ADL)](http://www.adlnet.gov/). He is an instructional designer who has worked primarily to design and develop elearning in the U.S. commercial, military, and federal government contexts.
 
 Craig is a moderator at [/r/elearning](http://www.reddit.com/r/elearning), a participant in [/r/instructionaldesign](http://www.reddit.com/r/instructionaldesign) and one-third of the bi-weekly [Learning Circles](https://plus.google.com/115463965136868413336/posts) webcast.
 
