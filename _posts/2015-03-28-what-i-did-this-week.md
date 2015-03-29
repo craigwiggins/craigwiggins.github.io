@@ -20,7 +20,7 @@ Here's what I've been up to:
 [![Learning Circles Hangout](http://img.youtube.com/vi/mz8H2Xyn1R4/0.jpg)](http://www.youtube.com/watch?v=mz8H2Xyn1R4)
 
 * Sorta kinda tried to clean up [/r/elearning](http://www.reddit.com/r/elearning). Not really.
-* Uploaded a few ADL xAPI videos, including this overview of the xAPI Dashboard
+* Uploaded a few ADL xAPI videos, including this overview of the [xAPI Dashboard](https://github.com/adlnet/xapi-dashboard)
 
 [![xAPI Dashboard](http://img.youtube.com/vi/f-iZQ-ykXN8/0.jpg)](http://www.youtube.com/watch?v=f-iZQ-ykXN8)
 
