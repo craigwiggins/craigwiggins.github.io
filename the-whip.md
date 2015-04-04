@@ -6,7 +6,7 @@ title: the whip
 ![all the things meme](/images/learn-all-the-things.png "learn all the things!")
 
 ####This week's goal:
-*Computer assisted animation/illustration (due 1 April 2015)*
+I dunno yet. [Tell me](http://www.twitter.com/oxala75)!
 
 To kick off 2015, my writing whip partner and I decided to take on a new challenge: learning new skills. We would maintain the same weekly meeting schedule and method, but instead of completing (or talking about how to complete) our writing assignments, would assign ourselves a new skill to learn within one or two weeks time. By the time the due date rolls around, we should have completed a task which indicates that a new skills has been learned.
 
@@ -48,3 +48,4 @@ Below are the goals that I have assigned myself for 2015 - we'll see how many I 
 ####Computer-assisted illustration/animation
 * AfterEffects for motion graphics
 * Pencil2D using the Wacom Bamboo tablet
+ * [**DONE**](http://craigwiggins.github.io/2015/04/04/reacquaintance/)
