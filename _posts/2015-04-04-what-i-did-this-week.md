@@ -5,7 +5,7 @@ title: what I did this week (04 April 2015)
 
 This week was about a lot of 
 
-![coffee animation from Justin Mezzell on Dribbble](/images/coffee.gif 'https://dribbble.com/shots/1179520-Press-of-the-French-GIF')
+![coffee animation from Justin Mezzell on Dribbble](/images/frenchpress.gif 'https://dribbble.com/shots/1179520-Press-of-the-French-GIF')
 
 and not so much of
 
