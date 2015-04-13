@@ -15,13 +15,13 @@ Anyway, let's get to it.
 * [xAPI Design Cohort - week 10](https://groups.google.com/a/adlnet.gov/forum/#!forum/xapi-design)! 
  * [Team xAPI Gnome](https://twitter.com/xapignome) kicked major butt on their mid-season presentation; looking forward to their July presentation at the xAPI Bootcamp in Alexandria, VA. (So, what are *you* doing this Bastille Day?) 
  * [xAPI Lab release 0.8](https://github.com/adlnet/xapi-lab) is out. Thanks to [Tyler Mulligan](https://twitter.com/TylerADL) for continuing to produce ready-to-ratchet tools for the community.
-* Started (along with Jason Haag and others) the xAPI Vocabulary Working Group. The aim is to take twomonths and see if we can sort out the issues of linked data and verb registration. No sweat.
+* Started (along with [Jason Haag](https://twitter.com/mobilejson) and others) the xAPI Vocabulary Working Group. The aim is to take two months and see if we can sort out the issues of linked data and verb registration. No sweat.
  * if you are into xAPI but haven't read Jason's [*Controlled Vocabulary Considerations for the Experience API*](https://docs.google.com/a/adlnet.gov/document/d/1zBPKryuF1tXHTI-AYjXd0ctdWoq4o4P-Uq9SAhJfus0/edit?pli=1#), give it a go.
 
 ###book learnin'
 * I haven't been taking the bus to work as much this week, so not much more progress on [David Mitchell](http://en.wikipedia.org/wiki/David_Mitchell_%28author%29)'s [*The Thousand Autumns of Jacob de Zoet*](http://en.wikipedia.org/wiki/The_Thousand_Autumns_of_Jacob_de_Zoet). However, I will say that there is a *lot* of detail here. I can only imagine how taxing some of the passages must have been to write.
 * Figured out my new [whip list](http://craigwiggins.github.io/the-whip/) challenge: knot tying. Yes.
-* Found this gem (below) via [/r/instructionaldesign](http://www.reddit.com/r/instructionaldesign). Get into it.
+* Found [this gem](http://www.youtube.com/watch?v=lH83NyjoXbU) (below) via [/r/instructionaldesign](http://www.reddit.com/r/instructionaldesign). Brenda Brathwaite. Middle Passage. Get into it.
 [![Gaming for understanding - Brenda Brathwaite](http://img.youtube.com/vi/lH83NyjoXbU/0.jpg)](http://www.youtube.com/watch?v=lH83NyjoXbU)
 * As you some of you may know, I've been kicking around an idea for a geolocation game with an afrofuturist bent. I think that the more I think about it, the more that my brain angles toward the subject matter. Observe last week's [Pocket](http://www.getpocket.com) reading list:
  * [*A game that speaks of Africa*](http://www.polygon.com/2015/3/30/8297515/africa-draft) ([Polygon](http://www.polygon.com/2015/3/30/8297515/africa-draft))
