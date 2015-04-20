@@ -17,6 +17,7 @@ But I want to get this down before my eyes shut (sleep? pollen? hard to tell at 
 * Thinking about what an ADL 'xAPI 101' would look like; spending time thinking about how to flesh out the existing [SCORM-to-TLA Roadmap](http://adlnet.github.io/SCORM-to-TLA-Roadmap/)
 
 ###book learnin'
+* I took the train up to Rockville to [visit the Thingstitute](http://craigwiggins.github.io/2015/04/20/the-thingstitute/). Beacons, Raspberry Pi(es?), many, many cables. Lost a dongle or two. Totally worth it.
 * [Rope burns](http://www.animatedknots.com/indexbasics.php)
 * [The CMI-5 spec](https://github.com/AICC/CMI-5_Spec_Current). I've actually read the entire thing a few times now - rather useful, I think. Kind of makes me want to re-read the [xAPI specification](https://github.com/adlnet/xAPI-Spec). You know, for laughs.
 * [Bootsnip](http://bootsnipp.com/) - an element gallery for web designers and web developers, containing design elements, playground and code snippets for the [Bootstrap](http://getbootstrap.com/) HTML/CSS/JS framework
