@@ -28,5 +28,3 @@ But I want to get this down before my eyes shut (sleep? pollen? hard to tell at 
 * This doesn't really count as last week (it came out about 7 hours ago), but [daaamn, Michael Eric Dyson](http://www.newrepublic.com/article/121550/cornel-wests-rise-fall-our-most-exciting-black-scholar-ghost).
 
 ok, it's after 0100 EDT on a Monday. I gotta be awake in a few. Catch you later.
-
-![later skaters](/images/later-skaters.gif 'later skaters')
