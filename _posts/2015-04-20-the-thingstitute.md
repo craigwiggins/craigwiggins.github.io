@@ -5,7 +5,7 @@ title: the thingstitute
 
 ![Thingstitute sign](/images/thingstitute.png 'Thingstitute sign')
 
-This weekend, [Tyler Mulligan](https://twitter.com/tyleradl), [Jeff Segall](https://www.linkedin.com/pub/jeff-segall/95/557/7), [Anthony Altieri] and I spent several hours participating in the [xAPI and IoT hackathon](http://craigwiggins.github.io/2015/04/12/xapi+iot/). It was a well-fed, well-mixed group of curious folks, and I think we all left with concrete steps (both in terms of design and implementation) toward allowing [xAPI](http://xapi.adlnet.gov) to make the [Internet of Things](http://en.wikipedia.org/wiki/Internet_of_Things) work. 
+This weekend, [Tyler Mulligan](https://twitter.com/tyleradl), [Jeff Segall](https://www.linkedin.com/pub/jeff-segall/95/557/7), [Anthony Altieri](https://twitter.com/aa_altieri) and I spent several hours participating in the [xAPI and IoT hackathon](http://craigwiggins.github.io/2015/04/12/xapi+iot/). It was a well-fed, well-mixed group of curious folks, and I think we all left with concrete steps (both in terms of design and implementation) toward allowing [xAPI](http://xapi.adlnet.gov) to make the [Internet of Things](http://en.wikipedia.org/wiki/Internet_of_Things) work. 
 
 ![Mike Lee's wearables](/images/mike-bands.png 'wearables and sensors')
 
