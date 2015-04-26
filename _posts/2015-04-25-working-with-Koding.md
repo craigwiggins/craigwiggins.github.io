@@ -7,14 +7,7 @@ So, most days I work with a [Chromebook](http://www.engadget.com/products/toshib
 Unfortunately for expediency, what you are reading right now is a [GitHub](http://www.github.com)-hosted Jekyll blog, which means that I needed to setup Ruby and Jekyll and many other things on a machine.
 Basically, it meant that I needed to have a machine with local storage whenever I wanted to edit my blog...which doesn't work so well with my Chromebook.
 
-Enter [**Koding**](http://www.koding.com):
-
-> **Why Koding?**
-Koding is a cloud-based development platform that allows you to:
-- Focus on learning and writing software without the need to setup stuff.
-- Collaborate with others in real-time and pair-program.
-- Learn through interaction with a community of like-minded developers.
-- Have a question? Post it on the #public channel and engage with our global developer community!
+Enter [**Koding**](http://www.koding.com), a cloud-based development platform (!). Check it:
 
 > Koding VMs, the little green box(es) on the sidebar, run Ubuntu Linux (14.04) and are
 fully functional development machines (just like your own computer). You can write code 
