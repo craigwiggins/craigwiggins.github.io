@@ -11,10 +11,10 @@ Enter [**Koding**](http://www.koding.com):
 
 > **Why Koding?**
 > Koding is a cloud-based development platform that allows you to:
-> * Focus on learning and writing software without the need to setup stuff.
-> * Collaborate with others in real-time and pair-program.
-> * Learn through interaction with a community of like-minded developers.
-> * Have a question? Post it on the #public channel and engage with our global developer community!
+* Focus on learning and writing software without the need to setup stuff.
+* Collaborate with others in real-time and pair-program.
+* Learn through interaction with a community of like-minded developers.
+* Have a question? Post it on the #public channel and engage with our global developer community!
 
 > Koding VMs, the little green box(es) on the sidebar, run Ubuntu Linux (14.04) and are
 fully functional development machines (just like your own computer). You can write code 
