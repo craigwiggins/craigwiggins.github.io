@@ -10,7 +10,7 @@ Basically, it meant that I needed to have a machine with local storage whenever 
 Enter [**Koding**](http://www.koding.com):
 
 > **Why Koding?**
-> Koding is a cloud-based development platform that allows you to:
+Koding is a cloud-based development platform that allows you to:
 * Focus on learning and writing software without the need to setup stuff.
 * Collaborate with others in real-time and pair-program.
 * Learn through interaction with a community of like-minded developers.
