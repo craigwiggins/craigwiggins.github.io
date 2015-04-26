@@ -15,4 +15,4 @@ in any programming language that is supported by Ubuntu/Linux.
 start writing code right away without the need for new installs! If something is not
 installed, getting it installed is as easy as 1-2-3.
 
-Pretty cool. In fact, I installed Jekyll on a virtual machine minutes ago and published this page in my Koding workspace.
+Pretty cool. In fact, I installed [Jekyll](http://jekyllrb.com/) on a virtual machine minutes ago and published this page in my Koding workspace.
