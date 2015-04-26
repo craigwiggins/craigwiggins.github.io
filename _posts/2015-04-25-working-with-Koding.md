@@ -3,9 +3,7 @@ layout: post
 title: working with Koding
 ---
 
-So, most days I work with a [Chromebook](http://www.engadget.com/products/toshiba/chromebook/), which I think is pretty cool.
-Unfortunately for expediency, what you are reading right now is a [GitHub](http://www.github.com)-hosted Jekyll blog, which means that I needed to setup Ruby and Jekyll and many other things on a machine.
-Basically, it meant that I needed to have a machine with local storage whenever I wanted to edit my blog...which doesn't work so well with my Chromebook.
+So, most days I work with a [Chromebook](http://www.engadget.com/products/toshiba/chromebook/), which I think is pretty cool. Unfortunately for expediency, what you are reading right now is a [GitHub](http://www.github.com)-hosted Jekyll blog, which means that I needed to setup Ruby and Jekyll and many other things on a machine. Basically, it meant that I needed to have a machine with local storage whenever I wanted to edit my blog...which doesn't work so well with my Chromebook.
 
 Enter [**Koding**](http://www.koding.com), a cloud-based development platform (!). Check it:
 
@@ -18,4 +16,3 @@ start writing code right away without the need for new installs! If something is
 installed, getting it installed is as easy as 1-2-3.
 
 Pretty cool. In fact, I installed Jekyll on a virtual machine minutes ago and published this page in my Koding workspace.
-
