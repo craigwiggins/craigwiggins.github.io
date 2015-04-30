@@ -6,8 +6,7 @@ title: the whip
 ![all the things meme](/images/learn-all-the-things.png "learn all the things!")
 
 ####This week's goal:
-Knot tying (proof of skill acquisition due 22 April 2015) 
-Haven't yet figured out the focus, but already there's some [pretty interesting reading](http://en.wikipedia.org/wiki/Knot_(mathematics)#Formal_definition).
+Knot tying (proof of skill acquisition due 22 April 2015) - **LATE**
 
 To kick off 2015, my writing whip partner and I decided to take on a new challenge: learning new skills. We would maintain the same weekly meeting schedule and method, but instead of completing (or talking about how to complete) our writing assignments, would assign ourselves a new skill to learn within one or two weeks time. By the time the due date rolls around, we should have completed a task which indicates that a new skills has been learned.
 
