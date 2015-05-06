@@ -1,9 +1,9 @@
---
+---
 layout: post
-title: last week tonight (week of 27 April 2015)
+title: last week today (week of 27 April 2015)
 ---
 
-with apologies to John Oliver.
+(with apologies to John Oliver.)
 ![John Oliver vs drones](/images/johnoliver.gif 'John Oliver vs drones')
 
 ###money earnin'
@@ -21,8 +21,9 @@ I mean, he's right, but it really got me thinking about how hard and under which
 No more David Mitchell until the end of October, unless I want to [hunt down the short stories](http://www.reddit.com/r/books/comments/2rez91/hard_to_find_short_stories_by_david_mitchell/).
 * I've been a big fan of [Dr Meredith Clark](https://twitter.com/meredithclark) for a minute - probably since I started seeing her retweeted in that one Tweetdeck hashtag column ([you know the one](https://twitter.com/search?q=%23blacktwitter)). Was interested to read her sharing her take on [a common concern](http://www.theatlantic.com/technology/archive/2015/04/the-truth-about-black-twitter/390120/):
 
-> **Donovan X. Ramsey:** How do you define Black Twitter?
-> **Meredith Clark:** I define Black Twitter as a temporally linked group of connectors that share culture, language and interest in specific issues and talking about specific topics with a black frame of reference. ... I break Black Twitter down into three levels of connection: personal community, and that reflects the people that you are connected with in some other dimension other than Twitter. And I take that personal community from Barry Wellman's work. The second level I find is thematic notes, and that's where individuals specifically tweet together about certain topics, so they keep returning to this subject matter. And those thematic notes could be anything from television shows, to ideologies, topics of religion. They might be centric to where these individuals are in a certain part of the country. It just kind of all depends on what topic we're interested in. And then that third level of connection, where we see a lot of conversation about these networks and how they're linked, is when those personal communities and the thematic notes kind of intersect around a specific topic. 
+> **Donovan X. Ramsey:** *How do you define Black Twitter?*
+
+> **Meredith Clark:** *I define Black Twitter as a temporally linked group of connectors that share culture, language and interest in specific issues and talking about specific topics with a black frame of reference. ... I break Black Twitter down into three levels of connection: personal community, and that reflects the people that you are connected with in some other dimension other than Twitter. And I take that personal community from Barry Wellman's work. The second level I find is thematic notes, and that's where individuals specifically tweet together about certain topics, so they keep returning to this subject matter. And those thematic notes could be anything from television shows, to ideologies, topics of religion. They might be centric to where these individuals are in a certain part of the country. It just kind of all depends on what topic we're interested in. And then that third level of connection, where we see a lot of conversation about these networks and how they're linked, is when those personal communities and the thematic notes kind of intersect around a specific topic.* 
 
 ###blunt burnin'
 * Re-read [*The Golden Chain*](http://www.gly.uga.edu/railsback/CS/CSGoldenChain.html) for a little side thing I have going on.
