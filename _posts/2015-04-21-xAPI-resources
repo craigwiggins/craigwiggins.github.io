@@ -1,0 +1,35 @@
+--
+layout: post
+title: xAPI resources
+---
+
+![knowledge vs experience](/images/knowledge-vs-experience.jpg 'knowledge vs. experience')
+
+Prior to my recent [visit to the Thingstitute](http://craigwiggins.github.io/2015/04/20/the-thingstitute/), [Dr Brenda Bannan](http://cehd.gmu.edu/people/faculty/bbannan/) asked me to provide a list of [Experience API (xAPI)](http://xapi.adlnet.gov) resources that the participants could use. I pretty quickly with responded with a really long list - not because I'm a fast typist, but because I spend a lot of time at work answering questions about xAPI.
+
+Anyway, I'll soon get around to putting up a proper xAPI wiki/FAQ at adlnet.gov. Until then, enjoy this hailstorm of links - I'll be back later with some updates.
+
+####the basics
+* [Background](http://www.adlnet.gov/tla/experience-api/background-and-history.html)
+* [Best video that I've found that explains xAPI](https://youtu.be/y42MSS1DJqc)
+[![Experience API (aka Tin Can API) Demystified](http://img.youtube.com/vi/y42MSS1DJqc/0.jpg)](http://www.youtube.com/watch?v=y42MSS1DJqc)
+* [Probably the best xAPI-in-context explanation I've yet seen](http://floatlearning.com/xapicartoon/)
+
+####the confusion
+* ["Project Tin Can has concluded. Its successor is the Experience API (xAPI)"](http://www.adlnet.gov/tla/tin-can.html)
+* ["We Call it 'Tin Can'"](http://tincanapi.com/2012/12/11/we-call-it-tin-can/)
+* [Tin Can Changing Names...Again?](http://www.learndash.com/tin-can-api-changing-names-again/)
+* ["There is only one specification: xAPI"](http://elearninfo247.com/2015/01/12/xapi-lrs-the-interview/)
+
+####how xAPI is being used
+* How 8 Companies are Using the Tin Can API (xAPI)
+ * [deck](http://www.slideshare.net/RusticiSoftware/the-impacts-of-the-tin-can-api-how-8-companies-are-using-the-tin-can-api-xapi)
+ * [Q&A from live session](http://tincanapi.com/2015/02/10/webinar-qa-impacts-tin-can-api-8-companies-using-tin-can-api-xapi)
+ * [video](https://youtu.be/jSQwo1C4feA)
+* 9 Applications of the Tin Can API (xAPI)
+ * [deck](http://www.slideshare.net/RusticiSoftware/nine-applications-of-the-tin-can-api-xapi)
+ * [Q&A from live session](http://tincanapi.com/2015/04/07/webinar-qa-nine-practical-uses-tin-can-api-xapi/)
+ * [video](https://youtu.be/8LFhDdqQ13A)
+
+####ADL xAPI resources
+* [ADL xAPI resources home](http://adlnet.github.io/#xapi)
