@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html >
+  <head>
+    <meta charset="UTF-8">
+    <title>CSS To-Do Checklist (jQuery Added)</title>
+    
+    
+    
+    <link rel='stylesheet prefetch' href='http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css'>
+
+        <link rel="stylesheet" href="css/style.css">
+
+    
+    
+    
+  </head>
+
+  <body>
+
+<form id="todo-list">
+  
+  <h3 class="title">Content</h3>
+	<p class="tag-line">Get a small team together and go over the content of the site with a fine tooth comb - <b>make sure you get this right</b>. Good content is the cornerstone of a great site.</p>
+	<span class="todo-wrap">
+		<input type="checkbox" id="1"/>
+		<label for="1" class="todo">
+			<i class="fa fa-check"></i>
+			<p><b>Spelling</b>: Check and check again. Run a spell check. Better still, get others involved. You can never have enough people making sure copy is correct. Look out for grammatical errors as well as checking for widows or orphaned words in important paragraphs.</p>
+		</label>
+	</span>
+	<span class="todo-wrap">
+		<input type="checkbox" id="2"/>
+		<label for="2" class="todo">
+			<i class="fa fa-check"></i>
+			<p><b>Copy</b>: Make sure real copy is in place and all placeholder text is removed. There is nothing worse than seeing lorem ipsum in a mission statement.</p>
+		</label>
+	</span>
+	<span class="todo-wrap">
+		<input type="checkbox" id="3"/>
+		<label for="3" class="todo">
+			<i class="fa fa-check"></i>
+			<p><b>Contact Details</b>: It seems obvious but make sure these are correct. Without them how do you expect people to get in touch? Check phone numbers, check email addresses and test that these are working, make a call or send an email and check they are received.</p>
+		</label>
+	</span>
+	<span class="todo-wrap">
+		<input type="checkbox" id="4"/>
+		<label for="4" class="todo">
+			<i class="fa fa-check"></i>
+			<p><b>Copyright</b>: If you plan on using a date in the copyright info make sure it is set to automatically refresh from the time stamp on the server, and that the copyright owner is correct.</p>
+		</label>
+	</span>
+	<span class="todo-wrap">
+		<input type="checkbox" id="5"/>
+		<label for="5" class="todo">
+			<i class="fa fa-check"></i>
+			<p><b>Terms</b>: If you are providing a service or are involved in promotions then you will need terms available for visitors to read. If you are unsure as to how these should be written then consult a lawyer for best advice. Remember: <i>make these as clear as possible</i>. There is nothing worse than being baffled by legal jargon.</p>
+		</label>
+	</span>
+	<span class="todo-wrap">
+		<input type="checkbox" id="6"/>
+		<label for="6" class="todo">
+			<i class="fa fa-check"></i>
+			<p><b>Privacy</b>: If you use cookies, capture data, or distribute data, then you need a privacy policy. Keep these simple and be clear on what data you collect and provide details of how you can be contacted for further information.</p>
+		</label>
+	</span>
+	
+	<h3 class="title">Functionality</h3>
+	<p class="tag-line">Does it work? This might seem an obvious question to ask, but above all else this is the most important part of a project. You might have everything else in place but if the site doesn't work correctly what’s the point in launching it?</p>
+	<p class="tag-line">Minor bugs may appear when visitors use the site for the first time but making sure it works at near 100% will ensure a successful launch.</p>
+	<span class="todo-wrap">
+		<input type="checkbox" id="7"/>
+		<label for="7" class="todo">
+			<i class="fa fa-check"></i>
+			<p><b>Compatability</b>: Check the site works across all browsers and platforms. Specify at the beginning of a project to the client what platforms you will build and test to and stick to these. Use platforms such as <a href="http://dfcb.github.com/Responsivator/">Responsivator</a> and <a href="http://www.browserstack.com/">BrowserStack</a> to test sites quickly as well as on physical browsers and devices.</p>
+		</label>
+	</span>
+	<span class="todo-wrap">
+		<input type="checkbox" id="8"/>
+		<label for="8" class="todo">
+			<i class="fa fa-check"></i>
+			<p><b>Favicon</b>: Obvious, but this can be missed. Look at creating an iOS home screen icon too.</p>
+		</label>
+	</span>
+	<span class="todo-wrap">
+		<input type="checkbox" id="9"/>
+		<label for="9" class="todo">
+			<i class="fa fa-check"></i>
+			<p><b>Logo</b>: Does the logo link to the index page?</p>
+		</label>
+	</span>
+	<span class="todo-wrap">
+		<input type="checkbox" id="10"/>
+		<label for="10" class="todo">
+			<i class="fa fa-check"></i>
+			<p><b>404 Pages</b>: Check you have these in place, make sure they signpost ways for a user to get back into the site or direct them to pages of interest with relevant links.</p>
+		</label>
+	</span>
+	<span class="todo-wrap">
+		<input type="checkbox" id="11"/>
+		<label for="11" class="todo">
+			<i class="fa fa-check"></i>
+			<p><b>Redirects</b>: If you are redirecting pages use suitable 301 re-directs over 302.</p>
+		</label>
+	</span>
+	<span class="todo-wrap">
+		<input type="checkbox" id="12"/>
+		<label for="12" class="todo">
+			<i class="fa fa-check"></i>
+			<p><b>Forms</b>: Make sure they aren’t sending to spam mail boxes, or returning an error once submitted and include a thank you state once a form is submitted so a visitor knows it is sent. Above all else make sure the clients email address is specified when the site goes live.</p>
+		</label>
+	</span>
+	<span class="todo-wrap">
+		<input type="checkbox" id="13"/>
+		<label for="13" class="todo">
+			<i class="fa fa-check"></i>
+			<p><b>Links</b>: Do internal page links work? Do all external links work and do they open in a new tab if so intended?</p>
+		</label>
+	</span>
+	<span class="todo-wrap">
+		<input type="checkbox" id="14"/>
+		<label for="14" class="todo">
+			<i class="fa fa-check"></i>
+			<p><b>RSS Feeds</b>: Feeds can be useful. You don’t have to limit these to articles, you can have feeds for most pages for example new work or case studies added to a site.</p>
+		</label>
+	</span>
+	
+	
+	
+	<h3 class="title">Standards &amp; Validation</h3>
+	<p class="tag-line">These two things should be considered throughout the design and build to make every users experience on your site as good as it can be. Points to consider:</p>
+	<span class="todo-wrap">
+		<input type="checkbox" id="15"/>
+		<label for="15" class="todo">
+			<i class="fa fa-check"></i>
+			<p><b>Accessibility</b>: It's easy to forget how inaccessible a webpage is for some users. Have you considered how assistive technologies <a href="http://webdesign.tutsplus.com/articles/general/accessibility-whats-your-markup-saying-to-you/">such as screenreaders</a> will navigate your site? Have you implemented<a href="http://en.wikipedia.org/wiki/WAI-ARIA">WIA-ARIA</a> roles and states, or at least considered the tab order of form controls?</p>
+		</label>
+	</span>
+	<span class="todo-wrap">
+		<input type="checkbox" id="16"/>
+		<label for="16" class="todo">
+			<i class="fa fa-check"></i>
+			<p><b>Contrast</b>: This follows on from our point about accessibility. Using the very latest monitors it’s easy to see subtle differences in color, be sure to test your site on multiple devices and laptops to make sure the design has clarity and text can be read with ease.</p>
+		</label>
+	</span>
+	<span class="todo-wrap">
+		<input type="checkbox" id="17"/>
+		<label for="17" class="todo">
+			<i class="fa fa-check"></i>
+			<p><b>Text Size</b>: Make text clear and easy to read, adjust line spacing and allow plenty of white space. Bigger, can mean better, when it comes to text on the web.</p>
+		</label>
+	</span>
+	<span class="todo-wrap">
+		<input type="checkbox" id="18"/>
+		<label for="18" class="todo">
+			<i class="fa fa-check"></i>
+			<p><b>Alt Tags</b>: Make sure all images have clear descriptive ALT tags for the visually impaired. Not only that but without them they can’t be found in search engines.</p>
+		</label>
+	</span>
+	<span class="todo-wrap">
+		<input type="checkbox" id="19"/>
+		<label for="19" class="todo">
+			<i class="fa fa-check"></i>
+			<p><b>Consistency</b>: Make sure common elements across the site are consistent to avoid confusing your users. Make buttons look like buttons, links look like links, and titles and text should be the consistent in size and color.</p>
+		</label>
+	</span>
+	<span class="todo-wrap">
+		<input type="checkbox" id="20"/>
+		<label for="20" class="todo">
+			<i class="fa fa-check"></i>
+			<p><b>Device Compatibility</b>: Consider how the website will be used across multiple devices, responsive or not your website should work for desktop and mobile web users.</p>
+		</label>
+	</span>
+	<span class="todo-wrap">
+		<input type="checkbox" id="21"/>
+		<label for="21" class="todo">
+			<i class="fa fa-check"></i>
+			<p><b>Validation</b>: Always aim for 100% validity. If your site fails to validate fully don’t get too upset, but be sure to understand any errors in order to to eliminate any unwanted issues.</p>
+		</label>
+	</span>
+	<span class="todo-wrap">
+		<input type="checkbox" id="22"/>
+		<label for="22" class="todo">
+			<i class="fa fa-check"></i>
+			<p><b>JavaScript</b>: Many people browsing the web have JavaScript turned off for security reasons. Make sure your site is fully functional and forms still perform server-side validation checks without it.</p>
+		</label>
+	</span>
+	<span class="todo-wrap">
+		<input type="checkbox" id="23"/>
+		<label for="23" class="todo">
+			<i class="fa fa-check"></i>
+			<p><b>Flash</b>: Yeah, we know, nobody uses Flash anymore right? If Flash has to be used, be sure to include an alternative backup image should Flash Player not be installed.</p>
+		</label>
+	</span>
+	
+	
+	
+	<h3 class="title">Sitemaps</h3>
+	<p class="tag-line">Make sure you include sitemaps. These help search engines correctly index your website during the crawling process.</p>
+	<span class="todo-wrap">
+		<input type="checkbox" id="24"/>
+		<label for="24" class="todo">
+			<i class="fa fa-check"></i>
+			<p><b>HTML Sitemaps</b>: Although not as common practice as they were, this form of sitemap can have its benefits in helping visitors see a complete overview of the sites pages. Links for these are normally found in the footer of a site.</p>
+		</label>
+	</span>
+	<span class="todo-wrap">
+		<input type="checkbox" id="25"/>
+		<label for="25" class="todo">
+			<i class="fa fa-check"></i>
+			<p><b>XML Sitemaps</b>: These are only ever used by search engines such as Google, Bing and Yahoo. Create an <a href="http://webdesign.tutsplus.com/articles/general/all-you-need-to-know-about-xml-sitemaps/">XML Sitemap</a> easily and submit it via Webmaster Tools. These will then be used to inform search engines about the pages you have published.</p>
+		</label>
+	</span>
+	
+	
+	
+	<h3 class="title">Performance</h3>
+	<p class="tag-line">A faster site is a better ranking site. You’ll also lower bounce rates on pages if you can reduce load times - who wants to wait for pages to load?</p>
+	<span class="todo-wrap">
+		<input type="checkbox" id="26"/>
+		<label for="26" class="todo">
+			<i class="fa fa-check"></i>
+			<p><b>Check site speed</b>: You can use services such as <a href="https://developers.google.com/speed/pagespeed/">Google Page Speed</a> to check the load times of your site's pages.</p>
+		</label>
+	</span>
+	<span class="todo-wrap">
+		<input type="checkbox" id="27"/>
+		<label for="27" class="todo">
+			<i class="fa fa-check"></i>
+			<p><b>Image sizes</b>: Keep your images as small as possible. Although network speeds are better than ever, no one wants to wait for a 10Mb page to load. Compressing images will only improve page load times.</p>
+		</label>
+	</span>
+	
+	
+	
+	
+</form>
+
+
+    <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+
+        <script src="js/index.js"></script>
+
+    
+    
+    
+  </body>
+</html>
